@@ -1,7 +1,7 @@
 # Sobre min...
 Oi, sou Vitor!
 
-Estudante na área da programação 👨🏽‍💻📌
+Estudante Front-end na área do desenvolvimento web 👨🏽‍💻📌
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAraujo&show_icons=true&theme=dark)
