@@ -3,12 +3,6 @@ Oi, sou Vitor!
 
 Estudante Front-end na área do desenvolvimento web 👨🏽‍💻📌
 
-<style>
-  img{
-    margin-top: 20px;
-  }
-</style>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAraujo&show_icons=true&theme=dark)
 
 Algumas tecnologias que uso no dia-a-dia
