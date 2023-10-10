@@ -1,11 +1,11 @@
 # Sobre min...
 Oi, sou Vitor!
 
-Estudante no front-end do desenvolvimento web 👨🏽‍💻📌
+Atualmente estudando desenvolvimento web 👨🏽‍💻📌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAraujo&show_icons=true&theme=dark)
 
-Algumas tecnologias que uso no dia-a-dia
+Algumas tecnologias que ja uso no dia-a-dia
 
 <div style="display: inline_block" > <br>
   <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
