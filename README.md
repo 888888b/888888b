@@ -7,7 +7,7 @@ Atualmente estudando desenvolvimento web 👨🏽‍💻📌
 
 Algumas tecnologias que ja uso no dia-a-dia
 
-<div style="display: flex" > <br>
+<div style="display: flex; justify-content: center" > <br>
   <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center">
