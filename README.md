@@ -1,5 +1,5 @@
 # Sobre min...
-Oi, sou Vitor!
+Oi, sou o Vitor!
 
 Atualmente estudando desenvolvimento web 👨🏽‍💻📌
 
