@@ -1,7 +1,7 @@
 # Sobre min...
 Oi, sou o Vitor!
 
-Estudante de tecnologia, desde sempre fui fascinado pela forma como a tecnologia transforma, hoje, sigo meu caminho na área do desenvolvimento web
+Estudante de tecnologia, desde sempre fui fascinado pela forma como a tecnologia transforma!, hoje, sigo meu caminho na área do desenvolvimento web 👨🏽‍💻📖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dark)
 
