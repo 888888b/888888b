@@ -1,7 +1,7 @@
 # Sobre min...
-Oi, sou o Vitor!
+Vitor Hugo 👨🏽‍💻
 
-Estudante de tecnologia, desde sempre fui fascinado pela forma como a tecnologia transforma!, hoje, sigo meu caminho na área do desenvolvimento web 👨🏽‍💻📖
+Oi, me chamo Vitor, sou estudante de tecnologia 📖, estou a mais de 1 ano na área do desenvolvimento web , com meu portifólio demonstro que possuo habilidades sólidas no front-end web. Estou pronto para enfrentar desafios e contribuir positivamente para projetos, enquanto continuo a aprender e crescer nesta área dinâmica. Busco uma oportunidade empolgante para aplicar e expandir meu conhecimento.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dark)
 
