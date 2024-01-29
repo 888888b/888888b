@@ -1,7 +1,7 @@
 # Sobre min...
 Vitor Hugo 👨🏽‍💻
 
-Oi, meu nome é Vitor e sou estudante de tecnologia. Há mais de um ano, estou imerso na área de desenvolvimento web, aprimorando minhas habilidades por meio de projetos presentes no meu portfólio, demonstrando assim uma sólida expertise no front-end web. Atualmente, estou focando meus estudos em SQL Server e, após sua conclusão, pretendo explorar a área do back-end web. Estou preparado para enfrentar desafios e contribuir positivamente para projetos, enquanto continuo aprendendo e crescendo nesse ambiente dinâmico. Busco uma oportunidade empolgante para aplicar e expandir meu conhecimento.
+Oi, meu nome é Vitor e sou estudante de tecnologia. Há mais de um ano, estou imerso na área de desenvolvimento web, aprimorando minhas habilidades por meio de projetos presentes no meu portfólio, demonstrando assim um sólido conhecimento no front-end web. Atualmente, estou focando meus estudos em SQL Server e, após sua conclusão, pretendo explorar a área do back-end web. Estou preparado para enfrentar desafios e contribuir positivamente para projetos, enquanto continuo aprendendo e crescendo nesse ambiente dinâmico. Busco uma oportunidade empolgante para aplicar e expandir meu conhecimento.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dark)
 
