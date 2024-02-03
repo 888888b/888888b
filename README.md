@@ -1,16 +1,26 @@
-# Sobre min...
-Vitor Hugo 👨🏽‍💻
+## Olá, eu sou o Vitor Hugo
+Programador Front End web
 
-Oi, meu nome é Vitor e sou estudante de tecnologia. Há mais de um ano, estou imerso na área de desenvolvimento web, aprimorando minhas habilidades por meio de projetos presentes no meu portfólio, demonstrando assim um sólido conhecimento no front-end web. Atualmente, estou focando meus estudos em SQL Server e, após sua conclusão, pretendo explorar a área do back-end web. Estou preparado para enfrentar desafios e contribuir positivamente para projetos, enquanto continuo aprendendo e crescendo nesse ambiente dinâmico. Busco uma oportunidade empolgante para aplicar e expandir meu conhecimento.
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dark)
+<br/>
 
-Algumas tecnologias que ja uso no dia-a-dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888888b)](https://github.com/daniel-almeid/github-readme-stats)
 
-<div style="display: inline-block" > <br>
-  <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" align="center">
-</div>
+
+## minhas habilidades
+
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="center" height="30" width="" alt="js-icon"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+  <img align="center" height="30" width="" alt="react-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+  <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/React20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+          
+</div><br/>
 
