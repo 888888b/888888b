@@ -17,7 +17,7 @@ Programador Front End web
 
   <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=#61DAFB">
 
           
 </div><br/>
