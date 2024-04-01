@@ -10,7 +10,7 @@ Programador Front End web
 
 ## minhas habilidades
 
-<div style="display: flex; justify-content: space-between;"> <br>
+<div style="width: 100vw; height: 300px; display: flex; justify-content: center; align-items: center; background-color: red"> <br>
   <img align="center" height="30" width="" alt="js-icon"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   <img align="center" height="30" width="" alt="react-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
