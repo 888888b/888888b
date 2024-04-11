@@ -20,6 +20,8 @@ Programador Front End web
   <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
   <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+  <img align='center' height='30' width='' alt='python-logo' src='https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white'>
   
 </div><br/>
 
