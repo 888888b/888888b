@@ -22,6 +22,10 @@ Programador Front End web
   <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
   <img align='center' height='30' width='' alt='python-logo' src='https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white'>
+
+  <img align='center' height='30' width='' alt='sqlServer-logo' src='https://img.shields.io/badge/SQL%20Server-midnightblue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white'>
+
+ <img align='center' height='30' width='' alt='python-logo' src='https://img.shields.io/badge/REST%20API-orangered?style=for-the-badge&logo=rest&logoColor=white'/>
   
 </div><br/>
 
