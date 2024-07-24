@@ -10,20 +10,16 @@ Programador Front End Web
 
 ## minhas habilidades
 
-<div style="display: block; padding: 10px"> <br>
-  <img align="center" height="30" width="" alt="js-icon"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px; margin-bottom: 5px;">
-
-  <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 5px; margin-bottom: 5px;">
-
-  <img align="center" height="30" width="" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 5px; margin-bottom: 5px;">
-  
-  <img align="center" height="30" width="" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px; margin-bottom: 5px;">
-  
-  <img align="center" height="30" width="" alt="git-icon" src="https://img.shields.io/badge/GIT-32CD32?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 5px; margin-bottom: 5px;">
-
- <img align='center' height='30' width='' alt='api-icon' src='https://img.shields.io/badge/REST%20API-orangered?style=for-the-badge&logo=rest&logoColor=white' style="margin-right: 5px; margin-bottom: 5px;">
-
- <img align="center" height="30" width="" alt="firebase-icon" src="https://img.shields.io/badge/Firebase-9400D3?style=for-the-badge&logo=firebase&logoColor=white" style="margin-right: 5px; margin-bottom: 5px;">
-  
+<div>
+  <img align="center" height="30" width="" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="30" width="" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="30" width="" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" height="30" width="130" alt="TailwindCSS Icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" height="30" width="" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" height="30" width="130" alt="TypeScript Icon" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" height="30" width="130" alt="nextjs-icon Icon" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align='center' height='30' width='' alt='api-icon' src='https://img.shields.io/badge/REST%20API-orangered?style=for-the-badge&logo=rest&logoColor=white'>
+  <img align="center" height="30" width="" alt="firebase-icon" src="https://img.shields.io/badge/Firebase-9400D3?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+
 
