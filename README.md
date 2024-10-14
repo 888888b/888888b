@@ -1,8 +1,6 @@
 ## Olá, eu sou o Vitor Hugo
 Programador Front End Web
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dracula)
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888888b)](https://github.com/888888b/github-readme-stats)
@@ -21,5 +19,10 @@ Programador Front End Web
   <img alt='icone do styled components' src='https://img.shields.io/badge/Styled%20Components-003E1F?style=for-the-badge&logo=styled-components&logoColor=white'>
   <img alt="icone do goolge firebase" src="https://img.shields.io/badge/Firebase-9400D3?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+
+<br/>
+
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dracula)
+
 
 
