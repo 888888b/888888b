@@ -1,5 +1,5 @@
 ## Olá, eu sou o Vitor Hugo
-Programador front end web, estou constantemente me aprofundando e buscando mais conhecimento, pois a tecnologia me fascina. No momento, estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
+desenvolvedor front end web, estou constantemente me aprofundando e buscando mais conhecimento, pois a tecnologia me fascina. No momento, estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
 
 <br/>
 
