@@ -34,7 +34,7 @@ Sou um jovem estudante na área de programação web, estou constantemente me ap
 
 ## 🔎 Contato
 
-<a href="www.linkedin.com/in/vitor-araujo-2054622a6"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://api.whatsapp.com/send?phone=5562998648742"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/vitor-araujo-2054622a6" target='_blank'><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://api.whatsapp.com/send?phone=5562998648742" target='_blank'><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp" /></a>
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=34373d&height=90&section=footer' width='100%'>
