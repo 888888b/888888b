@@ -1,12 +1,11 @@
-## Olá, eu sou o Vitor Hugo
-desenvolvedor front end web, estou constantemente me aprofundando e buscando mais conhecimento, pois a tecnologia me fascina. No momento, estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
+<img src='https://capsule-render.vercel.app/api?type=waving&color=34373d&height=150&section=header&text=Vitor%20Hugo&fontSize=30&fontAlignY=25&fontColor=e0e0e0&desc=Desenvolvedor%20Front-end%20Web&descAlignY=45&animation=fadeIn&descSize=16' width='100%'>
+
+## 👋 Sobre mim
+Sou um jovem estudante na área de programação web, estou constantemente me aprofundando e buscando mais conhecimento, pois a tecnologia me fascina. No momento, estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888888b)](https://github.com/888888b/github-readme-stats)
-
-
-## Habilidades técnicas
+## 🛠 Habilidades técnicas
 
 <div>
   <img alt="icone da liguagem javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,7 +21,20 @@ desenvolvedor front end web, estou constantemente me aprofundando e buscando mai
 
 <br/>
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dracula)
+<a href="https://github.com/888888b/github-readme-stats">
+    <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=888888b" alt="Top Languages" />
+</a>
 
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=888888b&show_icons=true&theme=dracula'>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+## 🔎 Contato
+
+<a href="www.linkedin.com/in/vitor-araujo-2054622a6"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://api.whatsapp.com/send?phone=5562998648742"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp" /></a>
+
+<img src='https://capsule-render.vercel.app/api?type=waving&color=34373d&height=90&section=footer' width='100%'>
