@@ -1,12 +1,12 @@
 ## Olá, eu sou o Vitor Hugo
-Programador Front End Web
+Programador front end web, estou constantemente me aprofundando e buscando mais conhecimento, pois a tecnologia me fascina. No momento, estou estudando e desenvolvendo projetos para aprimorar minhas habilidades, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888888b)](https://github.com/888888b/github-readme-stats)
 
 
-## minhas habilidades
+## Habilidades técnicas
 
 <div>
   <img alt="icone da liguagem javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
