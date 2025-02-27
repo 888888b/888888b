@@ -15,7 +15,7 @@ Sou um jovem estudante na área de programação web, estou constantemente me ap
   <img alt="icone do react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="icone do typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="icone do next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt='icone do styled components' src='https://img.shields.io/badge/Styled%20Components-003E1F?style=for-the-badge&logo=styled-components&logoColor=white'>
+  <img alt='icone do nodejs' src='https://img.shields.io/badge/Node%20js-003E1F?style=for-the-badge&logo=node.js&logoColor=white'>
   <img alt="icone do goolge firebase" src="https://img.shields.io/badge/Firebase-9400D3?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
