@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=34373d&height=150&section=header&text=Vitor%20Hugo&fontSize=30&fontAlignY=25&fontColor=e0e0e0&desc=Desenvolvedor%20Front-end%20Web&descAlignY=45&animation=fadeIn&descSize=16' width='100%'>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=34373d&height=150&section=header&text=Vitor%20Hugo&fontSize=30&fontAlignY=25&fontColor=e0e0e0&desc=Desenvolvedor%20Full-stack%20Web&descAlignY=45&animation=fadeIn&descSize=16' width='100%'>
 
 ## 👋 Sobre mim
 Me chamo Vitor Hugo e sou desenvolvedor web Full Stack. Há 3 anos comecei minha jornada no mundo web e, desde então, venho aprimorando minhas habilidades constantemente, ao mesmo tempo, em que busco desenvolver também habilidades no idioma inglês.
